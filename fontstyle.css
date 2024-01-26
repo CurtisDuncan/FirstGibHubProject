@@ -1,0 +1,47 @@
+body {
+    background-image: url(resources/images/FontBackGround.png);
+}
+.FontTitle {
+    margin-top: 90px;
+}
+.FontPara {
+    margin-top: 10px;
+    text-align: center;
+    text-decoration:underline
+}
+
+.regrob {
+    font-family: "Roboto", sans-serif;
+}
+.regrobi {
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+    font-weight: 400;
+}
+.fatfam{
+    font-family: "Abril-Fatface";
+    font-weight: 400;
+}
+
+.WorkSan{
+    font-family: "Work Sans";
+    font-weight: 400;
+}
+.WorkSani {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-style: italic;
+}
+.fonta {
+    padding: 51px 50px;
+    font-size: 22px;
+    
+}
+.fontb {
+    padding: 51px 50px;
+    font-size: 22px;
+}
+.fontc {
+    padding: 51px 50px;
+    font-size: 22px;
+}
